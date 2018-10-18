@@ -24,6 +24,8 @@ my $next_tag = "";
 my ($pubn, $lat, $lon, $street, $locality, $region, $postcode, $tel) = "";
 my %seen;
 
+print "\"Pub Name\",\"Latitude\",\"Longitude\",\"Street\",\"Locality\",\"Region\",\"Postcode\",\"Telephone\",\"Source URL\"\n";
+
 # Start of by scraping the list of pages that contain the pub details.
 my $parser = HTML::LinkExtor->new(undef, $base_url);
 $parser->parse(get($base_url))->eof;
