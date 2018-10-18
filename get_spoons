@@ -59,7 +59,6 @@ for (sort keys %seen) {
 
             if ($itemprop =~ /.+\"(.+)\".+\"(.+)\"/) { $value = $2; }
 
-#            if ($itemprop =~ /keywords/)  { $pubn = $value; }
             if ($itemprop =~ /latitude/)  { $lat = $value; }
             if ($itemprop =~ /longitude/) { $lon = $value; }
 
