@@ -1,0 +1,102 @@
+#!/usr/bin/env perl 
+#
+# get_spoons - Produce a CSV file of all the current JD Wetherspoon free houses.
+#
+# Version 1.0 (C) 2018 Andrew Rawlins (awr-getspoons@fermit.org.uk)
+#
+# v1.0 - Initial Release.  This does have a very large reliance on the format
+#        of pages way outside of our control.
+#
+# Usage: get_spoons > list_of_spoons.csv
+
+use HTML::LinkExtor;
+use HTML::TokeParser::Simple;
+use LWP::Simple;
+use strict;
+use warnings;
+
+binmode STDOUT, ":encoding(UTF-8)";
+
+my $base_url = "https://www.jdwetherspoon.com/pubs/all-pubs";
+
+my $next_tag = "";
+my ($pubn, $lat, $lon, $street, $locality, $region, $postcode, $tel) = "";
+my %seen;
+
+# Start of by scraping the list of pages that contain the pub details.
+my $parser = HTML::LinkExtor->new(undef, $base_url);
+$parser->parse(get($base_url))->eof;
+
+my @links = $parser->links;
+foreach my $linkarray (@links) {
+ 
+    my @element  = @$linkarray;
+    my $elt_type = shift @element;
+
+    while (@element) {
+        my ($attr_name , $attr_value) = splice(@element, 0, 2);
+        $seen{$attr_value}++;
+    }
+
+}
+
+# We should now have a list of URLs we can get the useful info from
+for (sort keys %seen) { 
+
+    if ($_ =~ m/all-pubs\//) {
+
+        my $pub_url = $_;
+
+        my $meta_parser = HTML::TokeParser::Simple->new(url => $pub_url);
+        while (my $tag = $meta_parser->get_tag('meta')) {
+
+            my $value;
+
+            next unless defined(my $itemprop = $tag->as_is);
+
+            if ($itemprop =~ /.+\"(.+)\".+\"(.+)\"/) { $value = $2; }
+
+            if ($itemprop =~ /keywords/)    { $pubn = $value; }
+            if ($itemprop =~ /latitude/)    { $lat = $value; }
+            if ($itemprop =~ /longitude/)   { $lon = $value; }
+
+        }
+
+        my $span_parser = HTML::TokeParser::Simple->new(url => $pub_url);
+        while ( my $token = $span_parser->get_token ) {
+
+            if ($next_tag eq "street")    { $street = $token->as_is; }
+            if ($next_tag eq "locality")  { $locality = $token->as_is; }
+            if ($next_tag eq "region")    { $region = $token->as_is; }
+            if ($next_tag eq "postcode")  { $postcode = $token->as_is; }
+            if ($next_tag eq "telephone") { $tel = $token->as_is; }
+
+            $next_tag = "";
+
+            if ($token->as_is =~/streetAddress/) { $next_tag = "street"; }
+            if ($token->as_is =~/addressLocality/) { $next_tag = "locality"; }
+            if ($token->as_is =~/addressRegion/) { $next_tag = "region"; }
+            if ($token->as_is =~/postalCode/) { $next_tag = "postcode"; }
+            if ($token->as_is =~/telephone/) { $next_tag = "telephone"; }
+        
+        }    
+
+        $street =~ s/^\s+|\s+$//g;
+        $locality =~ s/^\s+|\s+$//g;
+        $region =~ s/^\s+|\s+$//g;
+        $postcode =~ s/^\s+|\s+$//g;
+        $tel =~ s/^\s+|\s+$//g;
+
+        print "\"" . $pubn . "\",\"" . $lat . "\",\"" . $lon . "\",";
+        print "\"" . $street . "\",\"" . $locality . "\",\"" . $region . "\",\"" . $postcode . "\",";
+        print "\"" . $tel . "\",";
+	print "\"" . $pub_url . "\"\n";
+
+        # Introduce a random pause so we don't hammer JDW
+        my $pause = rand(1);
+        sleep ($pause);
+
+    }
+
+}
+
