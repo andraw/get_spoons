@@ -12,6 +12,7 @@
 use HTML::LinkExtor;
 use HTML::TokeParser::Simple;
 use LWP::Simple;
+use Time::HiRes qw/usleep/;
 use strict;
 use warnings;
 
@@ -56,7 +57,7 @@ for (sort keys %seen) {
 
             if ($itemprop =~ /.+\"(.+)\".+\"(.+)\"/) { $value = $2; }
 
-            if ($itemprop =~ /keywords/)  { $pubn = $value; }
+#            if ($itemprop =~ /keywords/)  { $pubn = $value; }
             if ($itemprop =~ /latitude/)  { $lat = $value; }
             if ($itemprop =~ /longitude/) { $lon = $value; }
 
@@ -70,14 +71,16 @@ for (sort keys %seen) {
             if ($next_tag eq "region")    { $region = $token->as_is; }
             if ($next_tag eq "postcode")  { $postcode = $token->as_is; }
             if ($next_tag eq "telephone") { $tel = $token->as_is; }
+            if ($next_tag eq "pubname")   { $pubn = $token->as_is; }
 
             $next_tag = "";
 
-            if ($token->as_is =~/streetAddress/)   { $next_tag = "street"; }
-            if ($token->as_is =~/addressLocality/) { $next_tag = "locality"; }
-            if ($token->as_is =~/addressRegion/)   { $next_tag = "region"; }
-            if ($token->as_is =~/postalCode/)      { $next_tag = "postcode"; }
-            if ($token->as_is =~/telephone/)       { $next_tag = "telephone"; }
+            if ($token->as_is =~/streetAddress/)       { $next_tag = "street"; }
+            if ($token->as_is =~/addressLocality/)     { $next_tag = "locality"; }
+            if ($token->as_is =~/addressRegion/)       { $next_tag = "region"; }
+            if ($token->as_is =~/postalCode/)          { $next_tag = "postcode"; }
+            if ($token->as_is =~/telephone/)           { $next_tag = "telephone"; }
+            if ($token->as_is =~/banner-inner__title/) { $next_tag = "pubname"; }
        
        }    
 
@@ -93,8 +96,8 @@ for (sort keys %seen) {
        print "\"" . $pub_url . "\"\n";
 
        # Introduce a random pause so we don't hammer JDW
-       my $pause = rand(10);
-       sleep ($pause);
+       my $pause = rand(10)*1000000;
+       usleep ($pause);
 
     }
 
