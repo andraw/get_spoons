@@ -56,9 +56,9 @@ for (sort keys %seen) {
 
             if ($itemprop =~ /.+\"(.+)\".+\"(.+)\"/) { $value = $2; }
 
-            if ($itemprop =~ /keywords/)    { $pubn = $value; }
-            if ($itemprop =~ /latitude/)    { $lat = $value; }
-            if ($itemprop =~ /longitude/)   { $lon = $value; }
+            if ($itemprop =~ /keywords/)  { $pubn = $value; }
+            if ($itemprop =~ /latitude/)  { $lat = $value; }
+            if ($itemprop =~ /longitude/) { $lon = $value; }
 
         }
 
@@ -73,11 +73,11 @@ for (sort keys %seen) {
 
             $next_tag = "";
 
-            if ($token->as_is =~/streetAddress/) { $next_tag = "street"; }
+            if ($token->as_is =~/streetAddress/)   { $next_tag = "street"; }
             if ($token->as_is =~/addressLocality/) { $next_tag = "locality"; }
-            if ($token->as_is =~/addressRegion/) { $next_tag = "region"; }
-            if ($token->as_is =~/postalCode/) { $next_tag = "postcode"; }
-            if ($token->as_is =~/telephone/) { $next_tag = "telephone"; }
+            if ($token->as_is =~/addressRegion/)   { $next_tag = "region"; }
+            if ($token->as_is =~/postalCode/)      { $next_tag = "postcode"; }
+            if ($token->as_is =~/telephone/)       { $next_tag = "telephone"; }
        
        }    
 
