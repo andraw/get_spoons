@@ -78,23 +78,23 @@ for (sort keys %seen) {
             if ($token->as_is =~/addressRegion/) { $next_tag = "region"; }
             if ($token->as_is =~/postalCode/) { $next_tag = "postcode"; }
             if ($token->as_is =~/telephone/) { $next_tag = "telephone"; }
-        
-        }    
+       
+       }    
 
-        $street =~ s/^\s+|\s+$//g;
-        $locality =~ s/^\s+|\s+$//g;
-        $region =~ s/^\s+|\s+$//g;
-        $postcode =~ s/^\s+|\s+$//g;
-        $tel =~ s/^\s+|\s+$//g;
+       $street =~ s/^\s+|\s+$//g;
+       $locality =~ s/^\s+|\s+$//g;
+       $region =~ s/^\s+|\s+$//g;
+       $postcode =~ s/^\s+|\s+$//g;
+       $tel =~ s/^\s+|\s+$//g;
 
-        print "\"" . $pubn . "\",\"" . $lat . "\",\"" . $lon . "\",";
-        print "\"" . $street . "\",\"" . $locality . "\",\"" . $region . "\",\"" . $postcode . "\",";
-        print "\"" . $tel . "\",";
-	print "\"" . $pub_url . "\"\n";
+       print "\"" . $pubn . "\",\"" . $lat . "\",\"" . $lon . "\",";
+       print "\"" . $street . "\",\"" . $locality . "\",\"" . $region . "\",\"" . $postcode . "\",";
+       print "\"" . $tel . "\",";
+       print "\"" . $pub_url . "\"\n";
 
-        # Introduce a random pause so we don't hammer JDW
-        my $pause = rand(1);
-        sleep ($pause);
+       # Introduce a random pause so we don't hammer JDW
+       my $pause = rand(10);
+       sleep ($pause);
 
     }
 
