@@ -1,0 +1,880 @@
+lat	lon	title	description	icon	iconsize	iconoffset
+Latitude	Longitude	Pub Name	Not Visited	no_visit.png	24,24	0,0
+52.0869051	-0.264905	The Crown Hotel	Not Visited	no_visit.png	24,24	0,0
+51.889702	-0.521186	The Gary Cooper	Not Visited	no_visit.png	24,24	0,0
+52.136021	-0.471718	The Pilgrim’s Progress	Not Visited	no_visit.png	24,24	0,0
+51.915843	-0.663266	The Swan Hotel	Not Visited	no_visit.png	24,24	0,0
+51.881703	-0.418472	The White House	Not Visited	no_visit.png	24,24	0,0
+51.454830	-0.963423	The Back of Beyond	Not Visited	no_visit.png	24,24	0,0
+51.468066	-0.972559	The Baron Cadogan	Not Visited	no_visit.png	24,24	0,0
+51.523039	-0.717843	The Bear	Not Visited	no_visit.png	24,24	0,0
+51.400916	-1.322141	The Hatchet Inn	Not Visited	no_visit.png	24,24	0,0
+51.456540	-0.975386	The Hope Tap	Not Visited	no_visit.png	24,24	0,0
+51.483657	-0.608679	The King and Castle	Not Visited	no_visit.png	24,24	0,0
+51.509569	-0.595761	The Moon and Spoon	Not Visited	no_visit.png	24,24	0,0
+51.416569	-0.745366	The Old Manor	Not Visited	no_visit.png	24,24	0,0
+51.480407	-0.610499	The Windlesora	Not Visited	no_visit.png	24,24	0,0
+51.459274	-2.555084	St Georges Hall	Not Visited	no_visit.png	24,24	0,0
+51.455866	-2.605208	The Berkeley	Not Visited	no_visit.png	24,24	0,0
+51.454454	-2.594428	The Commercial Rooms	Not Visited	no_visit.png	24,24	0,0
+51.449194	-2.517164	The Jolly Sailor	Not Visited	no_visit.png	24,24	0,0
+51.462386	-2.506893	The Kingswood Colliers	Not Visited	no_visit.png	24,24	0,0
+51.450828	-2.582064	The Knights Templar	Not Visited	no_visit.png	24,24	0,0
+51.441129	-2.600943	The Robert Fitzharding	Not Visited	no_visit.png	24,24	0,0
+51.481194	-2.510118	The Staple Hill Oak	Not Visited	no_visit.png	24,24	0,0
+51.479661	-2.530289	The Van Dyck Forum	Not Visited	no_visit.png	24,24	0,0
+51.462859	-2.608749	The W. G. Grace	Not Visited	no_visit.png	24,24	0,0
+51.449838	-2.598749	V-Shed	Not Visited	no_visit.png	24,24	0,0
+51.9955595	-0.7286014	Captain Ridley’s Shooting Party	Not Visited	no_visit.png	24,24	0,0
+51.815485	-0.812398	The Bell	Not Visited	no_visit.png	24,24	0,0
+51.629327	-0.751336	The Falcon	Not Visited	no_visit.png	24,24	0,0
+51.587677	-0.627520	The Hope & Champion	Not Visited	no_visit.png	24,24	0,0
+52.041924	-0.748931	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+51.815398	-0.809839	The White Hart	Not Visited	no_visit.png	24,24	0,0
+52.037551	-0.767558	Wetherspoons	Not Visited	no_visit.png	24,24	0,0
+52.3303101	-0.1870992	Sandford House	Not Visited	no_visit.png	24,24	0,0
+52.575379	-0.241674	The College Arms	Not Visited	no_visit.png	24,24	0,0
+52.572972	-0.246505	The Draper’s Arms	Not Visited	no_visit.png	24,24	0,0
+52.556164	-0.127433	The George Hotel	Not Visited	no_visit.png	24,24	0,0
+52.551500	0.0873320	The Hippodrome	Not Visited	no_visit.png	24,24	0,0
+52.202936	0.1238720	The Regal	Not Visited	no_visit.png	24,24	0,0
+52.3231876	-0.0728005	The Swan & Angel	Not Visited	no_visit.png	24,24	0,0
+52.228730	-0.269142	The Weeping Ash	Not Visited	no_visit.png	24,24	0,0
+52.663234	0.1629650	The Wheatsheaf Inn	Not Visited	no_visit.png	24,24	0,0
+53.143343	-2.362178	The George Inn	Not Visited	no_visit.png	24,24	0,0
+53.1943124	-2.8931679	The Bull and Stirrup Hotel	Not Visited	no_visit.png	24,24	0,0
+53.410333	-2.157645	The Calverts Court	Not Visited	no_visit.png	24,24	0,0
+53.163783	-2.214671	The Counting House	Not Visited	no_visit.png	24,24	0,0
+53.342150	-2.731586	The Ferry Boat	Not Visited	no_visit.png	24,24	0,0
+53.387163	-2.593436	The Friar Penketh	Not Visited	no_visit.png	24,24	0,0
+53.346484	-2.124031	The Kingfisher	Not Visited	no_visit.png	24,24	0,0
+53.389879	-2.591634	The Looking Glass	Not Visited	no_visit.png	24,24	0,0
+53.262202	-2.508536	The Penny Black	Not Visited	no_visit.png	24,24	0,0
+53.370400	-2.724383	The Premier	Not Visited	no_visit.png	24,24	0,0
+53.191311	-2.530204	The Queens Arms	Not Visited	no_visit.png	24,24	0,0
+53.256458	-2.124356	The Society Rooms	Not Visited	no_visit.png	24,24	0,0
+53.481281	-2.057674	The Society Rooms	Not Visited	no_visit.png	24,24	0,0
+53.191467	-2.884266	The Square Bottle	Not Visited	no_visit.png	24,24	0,0
+53.384160	-2.352027	The Unicorn	Not Visited	no_visit.png	24,24	0,0
+53.282852	-2.923208	The Wheatsheaf	Not Visited	no_visit.png	24,24	0,0
+53.379446	-2.120471	The Wilfred Wood	Not Visited	no_visit.png	24,24	0,0
+50.471178	-4.723384	Chapel an Gansblydhen	Not Visited	no_visit.png	24,24	0,0
+50.100822	-5.275214	The Coinage Hall	Not Visited	no_visit.png	24,24	0,0
+50.344363	-5.156051	The Green Parrot	Not Visited	no_visit.png	24,24	0,0
+50.211435	-5.480804	The Hain Line	Not Visited	no_visit.png	24,24	0,0
+50.213624	-5.301041	The John Francis Basset	Not Visited	no_visit.png	24,24	0,0
+50.453967	-4.464954	The King Doniert	Not Visited	no_visit.png	24,24	0,0
+50.154786	-5.073068	The Packet Station	Not Visited	no_visit.png	24,24	0,0
+50.338748	-4.793412	The Rann Wartha	Not Visited	no_visit.png	24,24	0,0
+50.414392	-5.077438	The Towan Blystra	Not Visited	no_visit.png	24,24	0,0
+50.118594	-5.536728	The Tremenheere	Not Visited	no_visit.png	24,24	0,0
+50.262189	-5.050308	Try Dowr	Not Visited	no_visit.png	24,24	0,0
+54.777955	-1.575286	The Bishops’ Mill	Not Visited	no_visit.png	24,24	0,0
+54.852039	-1.830787	The Company Row	Not Visited	no_visit.png	24,24	0,0
+54.758237	-1.332725	The Five Quarter	Not Visited	no_visit.png	24,24	0,0
+54.699619	-1.600239	The Grand Electric Hall	Not Visited	no_visit.png	24,24	0,0
+54.837059	-1.333609	The Hat and Feathers	Not Visited	no_visit.png	24,24	0,0
+54.715016	-1.743100	The Horse Shoe Inn	Not Visited	no_visit.png	24,24	0,0
+54.684683	-1.215333	The King Johns Tavern	Not Visited	no_visit.png	24,24	0,0
+54.665303	-1.673088	The Stanley Jefferson	Not Visited	no_visit.png	24,24	0,0
+54.525580	-1.557235	The Tanners Hall	Not Visited	no_visit.png	24,24	0,0
+54.561391	-1.312906	The Thomas Sheraton	Not Visited	no_visit.png	24,24	0,0
+54.685666	-1.208621	The Ward Jackson	Not Visited	no_visit.png	24,24	0,0
+54.777233	-1.581100	The Water House	Not Visited	no_visit.png	24,24	0,0
+54.852139	-1.573391	The Wicket Gate	Not Visited	no_visit.png	24,24	0,0
+54.525575	-1.552607	The William Stead	Not Visited	no_visit.png	24,24	0,0
+54.550938	-3.587175	The Bransty Arch	Not Visited	no_visit.png	24,24	0,0
+54.601910	-3.137898	The Chief Justice of the Common Pleas	Not Visited	no_visit.png	24,24	0,0
+54.661841	-2.750304	The Dog Beck	Not Visited	no_visit.png	24,24	0,0
+54.115776	-3.227954	The Furness Railway	Not Visited	no_visit.png	24,24	0,0
+54.643076	-3.548045	The Henry Bessemer	Not Visited	no_visit.png	24,24	0,0
+54.326752	-2.748549	The Miles Thompson	Not Visited	no_visit.png	24,24	0,0
+54.891320	-2.931917	The William Rufus	Not Visited	no_visit.png	24,24	0,0
+54.890756	-2.930705	Woodrow Wilson	Not Visited	no_visit.png	24,24	0,0
+53.235225	-1.424153	Spa Lane Vaults	Not Visited	no_visit.png	24,24	0,0
+52.919155	-1.476332	The Babington Arms	Not Visited	no_visit.png	24,24	0,0
+53.138854	-1.556066	The Crown	Not Visited	no_visit.png	24,24	0,0
+52.971521	-1.308167	The Observatory	Not Visited	no_visit.png	24,24	0,0
+53.229884	-1.293819	The Pillar of Rock	Not Visited	no_visit.png	24,24	0,0
+53.235196	-1.431165	The Portland Hotel	Not Visited	no_visit.png	24,24	0,0
+53.050784	-1.407357	The Red Lion	Not Visited	no_visit.png	24,24	0,0
+52.774308	-1.557805	The Sir Nigel Gresley	Not Visited	no_visit.png	24,24	0,0
+53.442653	-1.948946	The Smithy Fold	Not Visited	no_visit.png	24,24	0,0
+52.924163	-1.478165	The Standing Order	Not Visited	no_visit.png	24,24	0,0
+52.924163	-1.478165	The Thomas Leaper	Not Visited	no_visit.png	24,24	0,0
+53.259412	-1.905302	The Wye Bridge House	Not Visited	no_visit.png	24,24	0,0
+53.097116	-1.390282	Waggon and Horses	Not Visited	no_visit.png	24,24	0,0
+50.720565	-3.530044	George’s Meeting House	Not Visited	no_visit.png	24,24	0,0
+51.210195	-4.119226	The Admiral Collingwood	Not Visited	no_visit.png	24,24	0,0
+50.385633	-4.157300	The Britannia Inn	Not Visited	no_visit.png	24,24	0,0
+50.722202	-3.532900	The Chevalier Inn	Not Visited	no_visit.png	24,24	0,0
+50.790688	-3.660863	The General Sir Redvers Buller	Not Visited	no_visit.png	24,24	0,0
+50.367521	-4.137516	The Gog and Magog	Not Visited	no_visit.png	24,24	0,0
+50.462146	-3.525525	The Green Ginger	Not Visited	no_visit.png	24,24	0,0
+50.730207	-3.539669	The Imperial	Not Visited	no_visit.png	24,24	0,0
+50.437317	-3.567540	The Isaac Merritt	Not Visited	no_visit.png	24,24	0,0
+50.547066	-3.494490	The Jolie Brise	Not Visited	no_visit.png	24,24	0,0
+50.382396	-4.133740	The Mannamead	Not Visited	no_visit.png	24,24	0,0
+51.080760	-4.058120	The Panniers	Not Visited	no_visit.png	24,24	0,0
+50.620330	-3.413702	The Powder Monkey	Not Visited	no_visit.png	24,24	0,0
+50.549681	-4.146774	The Queen's Head Hotel	Not Visited	no_visit.png	24,24	0,0
+50.530714	-3.607806	The Richard Hopkins	Not Visited	no_visit.png	24,24	0,0
+51.019901	-4.205854	The Rose Salterne	Not Visited	no_visit.png	24,24	0,0
+50.715339	-3.544117	The Sawyer’s Arms	Not Visited	no_visit.png	24,24	0,0
+50.387800	-4.051731	The Stannary Court	Not Visited	no_visit.png	24,24	0,0
+50.798431	-3.188086	The Star Inn	Not Visited	no_visit.png	24,24	0,0
+50.435163	-3.561503	The Talk of the Town	Not Visited	no_visit.png	24,24	0,0
+50.369710	-4.148014	The Union Rooms	Not Visited	no_visit.png	24,24	0,0
+50.393704	-3.515982	The Vigilance	Not Visited	no_visit.png	24,24	0,0
+51.078846	-4.060280	The Water Gate	Not Visited	no_visit.png	24,24	0,0
+50.902939	-3.490818	The White Ball Inn	Not Visited	no_visit.png	24,24	0,0
+50.739146	-4.0031674	The White Hart Hotel	Not Visited	no_visit.png	24,24	0,0
+50.759362	-1.993428	The Blackwater Stream	Not Visited	no_visit.png	24,24	0,0
+50.722382	-1.865798	The Christopher Creeke	Not Visited	no_visit.png	24,24	0,0
+50.733496	-2.757899	The Greyhound	Not Visited	no_visit.png	24,24	0,0
+50.716528	-1.982635	The Lord Wimborne	Not Visited	no_visit.png	24,24	0,0
+50.800828	-1.988347	The Man in the Wall	Not Visited	no_visit.png	24,24	0,0
+50.720638	-1.876100	The Mary Shelley	Not Visited	no_visit.png	24,24	0,0
+50.718063	-1.880494	The Moon in the Square	Not Visited	no_visit.png	24,24	0,0
+50.803373	-1.890665	The Nightjar	Not Visited	no_visit.png	24,24	0,0
+50.743354	-1.878568	The Parkstone and Heatherlands	Not Visited	no_visit.png	24,24	0,0
+50.712209	-1.986530	The Quay	Not Visited	no_visit.png	24,24	0,0
+50.715187	-2.439143	The Royal Oak	Not Visited	no_visit.png	24,24	0,0
+50.608135	-2.455106	The Swan	Not Visited	no_visit.png	24,24	0,0
+50.611574	-2.454260	The William Henry	Not Visited	no_visit.png	24,24	0,0
+53.843038	-0.433359	The Cross Keys	Not Visited	no_visit.png	24,24	0,0
+50.767602	0.2845550	Cornfield Garage	Not Visited	no_visit.png	24,24	0,0
+50.822812	-0.144418	The Bright Helm	Not Visited	no_visit.png	24,24	0,0
+50.828586	-0.174065	The Cliftonville Inn	Not Visited	no_visit.png	24,24	0,0
+51.060505	0.1616070	The Crowborough Cross	Not Visited	no_visit.png	24,24	0,0
+50.862122	0.2595960	The George Hotel	Not Visited	no_visit.png	24,24	0,0
+50.855856	0.5796260	The John Logie Baird	Not Visited	no_visit.png	24,24	0,0
+50.768832	0.2815490	The London & County	Not Visited	no_visit.png	24,24	0,0
+50.8402323	0.4709064	The Picture Playhouse	Not Visited	no_visit.png	24,24	0,0
+50.822988	-0.140446	The Post & Telegraph	Not Visited	no_visit.png	24,24	0,0
+50.812150	-0.105217	The West Quay	Not Visited	no_visit.png	24,24	0,0
+53.703530	-0.871177	City and County	Not Visited	no_visit.png	24,24	0,0
+53.743197	-0.343746	The Admiral of the Humber	Not Visited	no_visit.png	24,24	0,0
+54.006331	-0.440338	The Benjamin Fawcett	Not Visited	no_visit.png	24,24	0,0
+54.083651	-0.187999	The Prior John	Not Visited	no_visit.png	24,24	0,0
+53.743981	-0.332747	The Three John Scotts	Not Visited	no_visit.png	24,24	0,0
+51.562883	0.2161790	J.J. Moon’s	Not Visited	no_visit.png	24,24	0,0
+51.787608	1.1542170	Moon and Starfish	Not Visited	no_visit.png	24,24	0,0
+51.731543	0.6777010	Rose & Crown	Not Visited	no_visit.png	24,24	0,0
+51.539721	0.0813250	The Barking Dog	Not Visited	no_visit.png	24,24	0,0
+51.798234	0.6378710	The Battesford Court	Not Visited	no_visit.png	24,24	0,0
+51.626914	0.4185190	The Blue Boar	Not Visited	no_visit.png	24,24	0,0
+51.9366895	1.2809545	The Bottle Kiln	Not Visited	no_visit.png	24,24	0,0
+51.598880	0.1608980	The Colley Rowe Inn	Not Visited	no_visit.png	24,24	0,0
+51.620812	0.3044920	The Dairyman	Not Visited	no_visit.png	24,24	0,0
+51.547698	0.6564600	The Elms	Not Visited	no_visit.png	24,24	0,0
+51.570419	0.1302700	The Eva Hart	Not Visited	no_visit.png	24,24	0,0
+51.561882	0.0688300	The Great Spoon of Ilford	Not Visited	no_visit.png	24,24	0,0
+51.732532	0.4733020	The Ivory Peg	Not Visited	no_visit.png	24,24	0,0
+51.647324	0.0553210	The Last Post	Not Visited	no_visit.png	24,24	0,0
+51.569346	0.4562590	The Moon on the Square	Not Visited	no_visit.png	24,24	0,0
+51.594121	0.0851380	The New Fairlop Oak	Not Visited	no_visit.png	24,24	0,0
+51.877172	0.5535620	The Picture Palace	Not Visited	no_visit.png	24,24	0,0
+51.887618	0.8969160	The Playhouse	Not Visited	no_visit.png	24,24	0,0
+51.584894	0.6035150	The Roebuck	Not Visited	no_visit.png	24,24	0,0
+52.022184	0.2391060	The Temeraire	Not Visited	no_visit.png	24,24	0,0
+51.771172	0.0920270	The William Aylmer	Not Visited	no_visit.png	24,24	0,0
+51.890528	0.2607480	The Windmill	Not Visited	no_visit.png	24,24	0,0
+51.884915	0.2476640	Wetherspoon Express	Not Visited	no_visit.png	24,24	0,0
+51.900895	-2.075858	The Bank House	Not Visited	no_visit.png	24,24	0,0
+51.861708	-2.253147	The Lord High Constable of England	Not Visited	no_visit.png	24,24	0,0
+51.744793	-2.218125	The Lord John	Not Visited	no_visit.png	24,24	0,0
+51.897521	-2.072483	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+51.865810	-2.242722	The Regal	Not Visited	no_visit.png	24,24	0,0
+51.991955	-2.158586	The Royal Hop Pole	Not Visited	no_visit.png	24,24	0,0
+53.591450	-2.298262	The Art Picture House	Not Visited	no_visit.png	24,24	0,0
+53.461185	-2.289116	The Bishop Blaize	Not Visited	no_visit.png	24,24	0,0
+53.556931	-2.634421	The Brocket Arms	Not Visited	no_visit.png	24,24	0,0
+53.524026	-2.399606	The Bull’s Head Hotel	Not Visited	no_visit.png	24,24	0,0
+53.408019	-2.220421	The Gateway	Not Visited	no_visit.png	24,24	0,0
+53.545905	-2.631714	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+53.548867	-2.522385	The Robert Shaw	Not Visited	no_visit.png	24,24	0,0
+53.577836	-2.093059	The Shay Wake	Not Visited	no_visit.png	24,24	0,0
+53.577473	-2.426830	The Spinning Mule	Not Visited	no_visit.png	24,24	0,0
+50.8969765	-1.3939462	The Admiral Sir Lucius Curtis	Not Visited	no_visit.png	24,24	0,0
+51.265567	-1.085469	The Angel	Not Visited	no_visit.png	24,24	0,0
+50.919801	-1.430436	The Bright Water Inn	Not Visited	no_visit.png	24,24	0,0
+50.852333	-1.176949	The Crown Inn	Not Visited	no_visit.png	24,24	0,0
+50.880772	-1.030626	The Denmead Queen	Not Visited	no_visit.png	24,24	0,0
+50.844878	-1.067159	The First Post	Not Visited	no_visit.png	24,24	0,0
+50.911025	-1.404486	The Giddy Bridge	Not Visited	no_visit.png	24,24	0,0
+50.797034	-1.092599	The Isambard Kingdom Brunel	Not Visited	no_visit.png	24,24	0,0
+51.146559	-0.978074	The Ivy House	Not Visited	no_visit.png	24,24	0,0
+50.798321	-1.076790	The John Jacques	Not Visited	no_visit.png	24,24	0,0
+51.206874	-1.478963	The John Russell Fox	Not Visited	no_visit.png	24,24	0,0
+50.852480	-1.181306	The Lord Arthur Lee	Not Visited	no_visit.png	24,24	0,0
+50.784198	-1.088961	The Lord Palmerston	Not Visited	no_visit.png	24,24	0,0
+51.262356	-1.087566	The Maidenhead Inn	Not Visited	no_visit.png	24,24	0,0
+51.063820	-1.316288	The Old Gaolhouse	Not Visited	no_visit.png	24,24	0,0
+50.851920	-0.984590	The Parchment Makers	Not Visited	no_visit.png	24,24	0,0
+51.278858	-0.845027	The Prince Arthur	Not Visited	no_visit.png	24,24	0,0
+51.249835	-0.767638	The Queen Hotel	Not Visited	no_visit.png	24,24	0,0
+51.003835	-0.934238	The Red Lion	Not Visited	no_visit.png	24,24	0,0
+50.9144265	-1.3580154	The Red Lion	Not Visited	no_visit.png	24,24	0,0
+50.840933	-1.097682	The Sir Alec Rose	Not Visited	no_visit.png	24,24	0,0
+50.815450	-1.079544	The Sir John Baker	Not Visited	no_visit.png	24,24	0,0
+50.757491	-1.545543	The Six Bells	Not Visited	no_visit.png	24,24	0,0
+50.900512	-1.403771	The Standing Order	Not Visited	no_visit.png	24,24	0,0
+50.795369	-1.121126	The Star	Not Visited	no_visit.png	24,24	0,0
+51.293438	-0.756707	The Tilly Shilling	Not Visited	no_visit.png	24,24	0,0
+50.969443	-1.350602	The Wagon Works	Not Visited	no_visit.png	24,24	0,0
+52.227174	-2.737973	The Duke’s Head	Not Visited	no_visit.png	24,24	0,0
+52.058302	-2.710562	The Kings Fee	Not Visited	no_visit.png	24,24	0,0
+51.913820	-2.582069	The Mail Rooms	Not Visited	no_visit.png	24,24	0,0
+51.658455	-0.400775	Colombia Press	Not Visited	no_visit.png	24,24	0,0
+51.762955	-0.240634	Harpsfield Hall	Not Visited	no_visit.png	24,24	0,0
+51.699604	-0.190230	The Admiral Byng	Not Visited	no_visit.png	24,24	0,0
+51.946575	-0.278658	The Angel Vaults Inn	Not Visited	no_visit.png	24,24	0,0
+51.759795	-0.563154	The Crown	Not Visited	no_visit.png	24,24	0,0
+51.753486	-0.472611	The Full House	Not Visited	no_visit.png	24,24	0,0
+51.657342	-0.272238	The Hart & Spool	Not Visited	no_visit.png	24,24	0,0
+51.700886	-0.034147	The King James	Not Visited	no_visit.png	24,24	0,0
+52.048273	-0.023027	The Manor House	Not Visited	no_visit.png	24,24	0,0
+51.684945	-0.032768	The Moon and Cross	Not Visited	no_visit.png	24,24	0,0
+51.656475	-0.397830	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+51.638871	-0.469790	The Pennsylvanian	Not Visited	no_visit.png	24,24	0,0
+51.869167	0.1621040	The Port Jackson	Not Visited	no_visit.png	24,24	0,0
+51.796030	-0.079142	The Six Templars	Not Visited	no_visit.png	24,24	0,0
+51.901175	-0.202702	The Standard Bearer	Not Visited	no_visit.png	24,24	0,0
+51.912074	-0.208075	The Standing Order	Not Visited	no_visit.png	24,24	0,0
+51.761613	-0.011790	The Star	Not Visited	no_visit.png	24,24	0,0
+51.979248	-0.226942	The Three Magnets	Not Visited	no_visit.png	24,24	0,0
+51.752619	-0.337335	Waterend Barn	Not Visited	no_visit.png	24,24	0,0
+50.730365	-1.162669	S. Fowler & Co.	Not Visited	no_visit.png	24,24	0,0
+50.700145	-1.295876	The Man in the Moon	Not Visited	no_visit.png	24,24	0,0
+51.133718	0.2637850	Opera House	Not Visited	no_visit.png	24,24	0,0
+51.440797	0.7602920	The Belle and Lion	Not Visited	no_visit.png	24,24	0,0
+51.149034	0.8751480	The County Hotel	Not Visited	no_visit.png	24,24	0,0
+51.125805	1.3125920	The Eight Bells	Not Visited	no_visit.png	24,24	0,0
+51.444745	0.2147930	The Flying Boat	Not Visited	no_visit.png	24,24	0,0
+51.340422	0.7321640	The Golden Hope	Not Visited	no_visit.png	24,24	0,0
+51.386571	0.5067900	The Golden Lion	Not Visited	no_visit.png	24,24	0,0
+51.195131	0.2745080	The Humphrey Bean	Not Visited	no_visit.png	24,24	0,0
+51.313756	0.8910830	The Leading Light	Not Visited	no_visit.png	24,24	0,0
+51.386708	1.3778250	The Mechanical Elephant	Not Visited	no_visit.png	24,24	0,0
+51.273694	0.5222650	The Muggleton Inn	Not Visited	no_visit.png	24,24	0,0
+51.356540	1.0242310	The Peter Cushing	Not Visited	no_visit.png	24,24	0,0
+51.442330	0.3692270	The Robert Pocock	Not Visited	no_visit.png	24,24	0,0
+51.3320363	1.423482	Royal Victoria Pavilion	Not Visited	no_visit.png	24,24	0,0
+51.080596	1.1814200	The Samuel Peto	Not Visited	no_visit.png	24,24	0,0
+51.372729	1.1259890	The Saxon Shore	Not Visited	no_visit.png	24,24	0,0
+51.272538	0.1925590	The Sennockian	Not Visited	no_visit.png	24,24	0,0
+51.223092	1.4017470	The Sir Norman Wisdom	Not Visited	no_visit.png	24,24	0,0
+51.277600	0.5218070	The Society Rooms	Not Visited	no_visit.png	24,24	0,0
+51.278429	1.0835040	The Thomas Ingoldsby	Not Visited	no_visit.png	24,24	0,0
+51.382159	0.522704	The Thomas Waghorn	Not Visited	no_visit.png	24,24	0,0
+51.281969	1.0756650	The West Gate Inn	Not Visited	no_visit.png	24,24	0,0
+53.816919	-3.055058	The Albert and The Lion	Not Visited	no_visit.png	24,24	0,0
+53.489888	-2.092356	The Ash Tree	Not Visited	no_visit.png	24,24	0,0
+53.788985	-2.240758	The Boot Inn	Not Visited	no_visit.png	24,24	0,0
+53.787999	-2.243917	The Brun Lea	Not Visited	no_visit.png	24,24	0,0
+53.752709	-2.363892	The Commercial Hotel	Not Visited	no_visit.png	24,24	0,0
+53.568405	-2.885233	The Court Leet	Not Visited	no_visit.png	24,24	0,0
+54.072496	-2.866207	The Eric Bartholomew	Not Visited	no_visit.png	24,24	0,0
+53.760301	-2.702992	The Grey Friar	Not Visited	no_visit.png	24,24	0,0
+53.876358	-3.037271	The Jolly Tars	Not Visited	no_visit.png	24,24	0,0
+53.818256	-3.055122	The Layton Rakes	Not Visited	no_visit.png	24,24	0,0
+53.695493	-2.692648	The Leyland Lion	Not Visited	no_visit.png	24,24	0,0
+53.696006	-2.465437	The Old Chapel	Not Visited	no_visit.png	24,24	0,0
+53.746712	-2.482473	The Postal Order	Not Visited	no_visit.png	24,24	0,0
+53.845362	-2.992392	The Poulton Elk	Not Visited	no_visit.png	24,24	0,0
+53.738048	-2.956792	The Railway Hotel	Not Visited	no_visit.png	24,24	0,0
+53.617305	-2.156811	The Regal Moon	Not Visited	no_visit.png	24,24	0,0
+53.653949	-2.630574	The Sir Henry Tate	Not Visited	no_visit.png	24,24	0,0
+54.046889	-2.800320	The Sir Richard Owen	Not Visited	no_visit.png	24,24	0,0
+53.486816	-2.637073	The Sir Thomas Gerard	Not Visited	no_visit.png	24,24	0,0
+53.499335	-2.518967	The Thomas Burke	Not Visited	no_visit.png	24,24	0,0
+53.921906	-3.011607	The Thomas Drummond	Not Visited	no_visit.png	24,24	0,0
+53.750937	-3.029976	The Trawl Boat Inn	Not Visited	no_visit.png	24,24	0,0
+53.758722	-2.696868	The Twelve Tellers	Not Visited	no_visit.png	24,24	0,0
+53.794853	-3.056067	The Velvet Coaster	Not Visited	no_visit.png	24,24	0,0
+53.856709	-2.170443	The Wallace Hartley	Not Visited	no_visit.png	24,24	0,0
+52.773730	-1.209355	The Amber Rooms	Not Visited	no_visit.png	24,24	0,0
+52.541109	-1.373968	The Baron of Hinckley	Not Visited	no_visit.png	24,24	0,0
+52.634591	-1.133307	The Corn Exchange	Not Visited	no_visit.png	24,24	0,0
+52.635339	-1.138583	The High Cross	Not Visited	no_visit.png	24,24	0,0
+52.765710	-0.889285	The Kettleby Cross	Not Visited	no_visit.png	24,24	0,0
+52.632709	-1.128656	The Last Plantagenet	Not Visited	no_visit.png	24,24	0,0
+52.600848	-1.084080	The Lord Keeper of the Great Seal	Not Visited	no_visit.png	24,24	0,0
+52.723504	-1.374327	The Monkey Walk	Not Visited	no_visit.png	24,24	0,0
+52.769260	-1.207661	The Moon & Bell	Not Visited	no_visit.png	24,24	0,0
+52.746712	-1.473575	The Shoulder of Mutton	Not Visited	no_visit.png	24,24	0,0
+52.478993	-0.922402	The Sugar Loaf	Not Visited	no_visit.png	24,24	0,0
+52.642978	-1.046835	The White House	Not Visited	no_visit.png	24,24	0,0
+52.587736	-1.105556	The William Wygston	Not Visited	no_visit.png	24,24	0,0
+53.224370	-0.543243	Ritz	Not Visited	no_visit.png	24,24	0,0
+53.560768	-0.031085	The Coliseum Picture Theatre	Not Visited	no_visit.png	24,24	0,0
+52.788547	-0.151381	The Ivy Wall	Not Visited	no_visit.png	24,24	0,0
+53.365203	-0.005115	The Joseph Morton	Not Visited	no_visit.png	24,24	0,0
+52.976692	-0.024404	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+52.999841	-0.410512	The Packhorse Inn	Not Visited	no_visit.png	24,24	0,0
+53.143959	0.3363070	The Red Lion	Not Visited	no_visit.png	24,24	0,0
+53.229820	-0.546572	The Square Sail	Not Visited	no_visit.png	24,24	0,0
+52.651148	-0.480789	The Stamford Post	Not Visited	no_visit.png	24,24	0,0
+53.398454	-0.777033	The Sweyn Forkbeard	Not Visited	no_visit.png	24,24	0,0
+52.909841	-0.639824	The Tollemache Inn	Not Visited	no_visit.png	24,24	0,0
+53.563934	-0.087395	The Yarborough Hotel	Not Visited	no_visit.png	24,24	0,0
+51.545456	-0.055087	Baxter’s Court	Not Visited	no_visit.png	24,24	0,0
+51.543751	0.0039980	Goldengrove	Not Visited	no_visit.png	24,24	0,0
+51.511494	-0.072858	Goodman’s Field	Not Visited	no_visit.png	24,24	0,0
+51.517643	-0.080963	Hamilton Hall	Not Visited	no_visit.png	24,24	0,0
+51.584673	-0.279922	J.J. Moon’s	Not Visited	no_visit.png	24,24	0,0
+51.573325	-0.413293	J.J. Moon’s	Not Visited	no_visit.png	24,24	0,0
+51.427847	-0.168426	J.J. Moon’s	Not Visited	no_visit.png	24,24	0,0
+51.553589	-0.292811	J.J. Moon’s	Not Visited	no_visit.png	24,24	0,0
+51.480414	-0.194437	Oyster Rooms	Not Visited	no_visit.png	24,24	0,0
+51.517967	-0.115481	Penderel’s Oak	Not Visited	no_visit.png	24,24	0,0
+51.516816	-0.119686	Shakespeare's Head	Not Visited	no_visit.png	24,24	0,0
+51.596974	-0.108708	Spouter’s Corner	Not Visited	no_visit.png	24,24	0,0
+51.619343	-0.106970	The Alfred Herring	Not Visited	no_visit.png	24,24	0,0
+51.532185	-0.106422	The Angel	Not Visited	no_visit.png	24,24	0,0
+51.469878	-0.171417	The Asparagus	Not Visited	no_visit.png	24,24	0,0
+51.450679	0.0522720	The Banker’s Draft	Not Visited	no_visit.png	24,24	0,0
+51.5314278	-0.1266802	The Barrel Vault	Not Visited	no_visit.png	24,24	0,0
+51.553529	-0.211525	The Beaten Docket	Not Visited	no_visit.png	24,24	0,0
+51.463752	-0.114514	The Beehive	Not Visited	no_visit.png	24,24	0,0
+51.508134	-0.416617	The Botwell Inn	Not Visited	no_visit.png	24,24	0,0
+51.464138	-0.036417	The Brockley Barge	Not Visited	no_visit.png	24,24	0,0
+51.439147	-0.054792	The Capitol	Not Visited	no_visit.png	24,24	0,0
+51.503871	-0.219395	The Central Bar	Not Visited	no_visit.png	24,24	0,0
+51.393521	-0.303705	The Coronation Hall	Not Visited	no_visit.png	24,24	0,0
+51.555514	-0.115776	The Coronet	Not Visited	no_visit.png	24,24	0,0
+51.512724	-0.084657	The Crosse Keys	Not Visited	no_visit.png	24,24	0,0
+51.444991	-0.124842	The Crown & Sceptre	Not Visited	no_visit.png	24,24	0,0
+51.574922	-0.013721	The Drum	Not Visited	no_visit.png	24,24	0,0
+51.455459	0.0117360	The Edmund Halley	Not Visited	no_visit.png	24,24	0,0
+51.409750	-0.228750	The Edward Rayne	Not Visited	no_visit.png	24,24	0,0
+51.464865	-0.090020	The Fox on the Hill	Not Visited	no_visit.png	24,24	0,0
+51.339382	-0.117581	The Foxley Hatch	Not Visited	no_visit.png	24,24	0,0
+51.456605	0.1476730	The Furze Wren	Not Visited	no_visit.png	24,24	0,0
+51.481489	-0.011132	The Gate Clock	Not Visited	no_visit.png	24,24	0,0
+51.374050	-0.098439	The George	Not Visited	no_visit.png	24,24	0,0
+51.575947	0.0281730	The George	Not Visited	no_visit.png	24,24	0,0
+51.547785	-0.480843	The Good Yarn	Not Visited	no_visit.png	24,24	0,0
+51.489975	0.0669170	The Great Harry	Not Visited	no_visit.png	24,24	0,0
+51.5530199	-0.3514265	The Greenwood Hotel	Not Visited	no_visit.png	24,24	0,0
+51.406371	0.0132330	The Greyhound	Not Visited	no_visit.png	24,24	0,0
+51.522195	-0.045316	The Half Moon	Not Visited	no_visit.png	24,24	0,0
+51.377844	0.1011170	The Harvest Moon	Not Visited	no_visit.png	24,24	0,0
+51.430174	-0.129823	The Holland Tringham	Not Visited	no_visit.png	24,24	0,0
+51.545812	0.0260250	The Hudson Bay	Not Visited	no_visit.png	24,24	0,0
+51.540874	-0.145664	The Ice Wharf	Not Visited	no_visit.png	24,24	0,0
+51.473549	-0.070012	The Kentish Drovers	Not Visited	no_visit.png	24,24	0,0
+51.616348	-0.017282	The King’s Ford	Not Visited	no_visit.png	24,24	0,0
+51.411467	-0.300592	The Kings Tun	Not Visited	no_visit.png	24,24	0,0
+51.515259	-0.111949	The Knights Templar	Not Visited	no_visit.png	24,24	0,0
+51.507563	-0.024544	The Ledger Building	Not Visited	no_visit.png	24,24	0,0
+51.509695	-0.078563	The Liberty Bounds	Not Visited	no_visit.png	24,24	0,0
+51.447015	-0.018347	The London & Rye	Not Visited	no_visit.png	24,24	0,0
+51.506494	-0.127400	The Lord Moon of the Mall	Not Visited	no_visit.png	24,24	0,0
+51.525198	-0.090642	The Masque Haunt	Not Visited	no_visit.png	24,24	0,0
+51.522517	-0.156875	The Metropolitan Bar	Not Visited	no_visit.png	24,24	0,0
+51.373056	-0.100647	The Milan Bar	Not Visited	no_visit.png	24,24	0,0
+51.533437	0.0563490	The Miller’s Well	Not Visited	no_visit.png	24,24	0,0
+51.514053	-0.129740	The Montagu Pyke	Not Visited	no_visit.png	24,24	0,0
+51.412746	-0.050885	The Moon & Stars	Not Visited	no_visit.png	24,24	0,0
+51.608306	-0.372714	The Moon and Sixpence	Not Visited	no_visit.png	24,24	0,0
+51.575719	0.1831460	The Moon and Stars	Not Visited	no_visit.png	24,24	0,0
+51.579376	-0.334160	The Moon on the Hill	Not Visited	no_visit.png	24,24	0,0
+51.361894	-0.193255	The Moon on the Hill	Not Visited	no_visit.png	24,24	0,0
+51.446360	-0.410089	The Moon on the Square	Not Visited	no_visit.png	24,24	0,0
+51.587353	-0.251046	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+51.467084	-0.369405	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+51.407097	-0.121380	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+51.510266	-0.129424	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+51.590873	-0.141640	The Mossy Well	Not Visited	no_visit.png	24,24	0,0
+51.462947	0.1039090	The New Cross Turnpike	Not Visited	no_visit.png	24,24	0,0
+51.633315	-0.130591	The New Crown	Not Visited	no_visit.png	24,24	0,0
+51.587241	-0.304294	The New Moon	Not Visited	no_visit.png	24,24	0,0
+51.372466	-0.226121	The Nonsuch Inn	Not Visited	no_visit.png	24,24	0,0
+51.492665	-0.231469	The Plough & Harrow	Not Visited	no_visit.png	24,24	0,0
+51.502366	-0.077334	The Pommelers Rest	Not Visited	no_visit.png	24,24	0,0
+51.418388	-0.082318	The Postal Order	Not Visited	no_visit.png	24,24	0,0
+51.650381	-0.173009	The Railway Bell	Not Visited	no_visit.png	24,24	0,0
+51.508265	-0.276566	The Red Lion & Pineapple	Not Visited	no_visit.png	24,24	0,0
+51.399671	0.0167440	The Richmal Crompton	Not Visited	no_visit.png	24,24	0,0
+51.560960	-0.073976	The Rochester Castle	Not Visited	no_visit.png	24,24	0,0
+51.465604	-0.212939	The Rocket	Not Visited	no_visit.png	24,24	0,0
+51.496082	-0.099727	The Rockingham Arms	Not Visited	no_visit.png	24,24	0,0
+51.511362	-0.090251	The Sir John Hawkshaw	Not Visited	no_visit.png	24,24	0,0
+51.519816	-0.105882	The Sir John Oldcastle	Not Visited	no_visit.png	24,24	0,0
+51.343446	-0.062519	The Sir Julian Huxley	Not Visited	no_visit.png	24,24	0,0
+51.513603	-0.298768	The Sir Michael Balcon	Not Visited	no_visit.png	24,24	0,0
+51.366156	-0.099199	The Skylark	Not Visited	no_visit.png	24,24	0,0
+51.389326	0.0721380	The Sovereign of the Seas	Not Visited	no_visit.png	24,24	0,0
+51.493054	-0.046590	The Surrey Docks	Not Visited	no_visit.png	24,24	0,0
+51.426161	0.1035130	The Tailor’s Chalk	Not Visited	no_visit.png	24,24	0,0
+51.564449	-0.444724	The Tichenham Inn	Not Visited	no_visit.png	24,24	0,0
+51.589952	-0.105232	The Toll Gate	Not Visited	no_visit.png	24,24	0,0
+51.576899	-0.370988	The Village Inn	Not Visited	no_visit.png	24,24	0,0
+51.569790	0.0128790	The Walnut Tree	Not Visited	no_visit.png	24,24	0,0
+51.459945	-0.011640	The Watch House	Not Visited	no_visit.png	24,24	0,0
+51.398867	-0.255329	The Watchman	Not Visited	no_visit.png	24,24	0,0
+51.360066	-0.149607	The Whispering Moon	Not Visited	no_visit.png	24,24	0,0
+51.545739	-0.103411	The White Swan	Not Visited	no_visit.png	24,24	0,0
+51.419166	-0.202661	The Wibbas Down Inn	Not Visited	no_visit.png	24,24	0,0
+51.493014	-0.225152	The William Morris	Not Visited	no_visit.png	24,24	0,0
+51.447591	-0.328530	The William Webb Ellis	Not Visited	no_visit.png	24,24	0,0
+51.495025	-0.142530	The Willow Walk	Not Visited	no_visit.png	24,24	0,0
+51.575901	0.1825440	The World’s Inn	Not Visited	no_visit.png	24,24	0,0
+51.457745	0.1374470	The Wrong ’Un	Not Visited	no_visit.png	24,24	0,0
+51.495295	-0.144408	Wetherspoons	Not Visited	no_visit.png	24,24	0,0
+53.468675	-2.361100	Castle in the Air	Not Visited	no_visit.png	24,24	0,0
+53.466179	-2.349005	The Mardi Gras	Not Visited	no_visit.png	24,24	0,0
+53.483229	-2.334663	The Eccles Cross	Not Visited	no_visit.png	24,24	0,0
+53.593732	-2.221360	The Edwin Waugh	Not Visited	no_visit.png	24,24	0,0
+53.458084	-2.226697	The Ford Madox Brown	Not Visited	no_visit.png	24,24	0,0
+53.441010	-2.219303	The Great Central	Not Visited	no_visit.png	24,24	0,0
+53.550159	-2.198051	The Harbord Harbord	Not Visited	no_visit.png	24,24	0,0
+53.424075	-2.317552	The J. P. Joule	Not Visited	no_visit.png	24,24	0,0
+53.482745	-2.246910	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+53.476453	-2.242548	The Paramount	Not Visited	no_visit.png	24,24	0,0
+53.593776	-2.297915	The Robert Peel	Not Visited	no_visit.png	24,24	0,0
+53.444237	-2.278640	The Sedge Lynn	Not Visited	no_visit.png	24,24	0,0
+53.485030	-2.240040	The Seven Stars	Not Visited	no_visit.png	24,24	0,0
+53.448212	-2.357196	The Tim Bobbin	Not Visited	no_visit.png	24,24	0,0
+53.542231	-2.112833	The Up Steps Inn	Not Visited	no_visit.png	24,24	0,0
+53.479171	-2.243099	The Waterhouse	Not Visited	no_visit.png	24,24	0,0
+53.481224	-2.235089	Wetherspoons	Not Visited	no_visit.png	24,24	0,0
+53.392477	-3.177064	Hoylake Lights	Not Visited	no_visit.png	24,24	0,0
+53.413375	-2.840059	The Barker’s Brewery	Not Visited	no_visit.png	24,24	0,0
+53.392383	-3.018088	The Brass Balance	Not Visited	no_visit.png	24,24	0,0
+53.396820	-2.896656	The Childwall Fiveways Hotel	Not Visited	no_visit.png	24,24	0,0
+53.419728	-3.047125	The Clairville	Not Visited	no_visit.png	24,24	0,0
+53.372818	-3.182447	The Dee Hotel	Not Visited	no_visit.png	24,24	0,0
+53.406642	-2.980048	The Fall Well	Not Visited	no_visit.png	24,24	0,0
+53.515307	-2.936744	The Frank Hornby	Not Visited	no_visit.png	24,24	0,0
+53.451334	-2.735861	The Glass House	Not Visited	no_visit.png	24,24	0,0
+53.361337	-2.997835	The John Masefield	Not Visited	no_visit.png	24,24	0,0
+53.556263	-3.059737	The Lifeboat	Not Visited	no_visit.png	24,24	0,0
+53.402970	-2.980277	The Lime Kiln	Not Visited	no_visit.png	24,24	0,0
+53.439922	-3.044100	The Master Mariner	Not Visited	no_visit.png	24,24	0,0
+53.400773	-3.113316	The Mockbeggar Hall	Not Visited	no_visit.png	24,24	0,0
+53.415130	-2.905678	The Navigator	Not Visited	no_visit.png	24,24	0,0
+53.452255	-2.643989	The Nine Arches	Not Visited	no_visit.png	24,24	0,0
+53.407259	-2.977003	The North Western	Not Visited	no_visit.png	24,24	0,0
+53.474184	-3.027309	The Queen’s Picture House	Not Visited	no_visit.png	24,24	0,0
+53.463796	-2.958666	The Raven	Not Visited	no_visit.png	24,24	0,0
+53.406077	-2.979932	The Richard John Blackler	Not Visited	no_visit.png	24,24	0,0
+53.451804	-2.739707	The Running Horses	Not Visited	no_visit.png	24,24	0,0
+53.645861	-3.010488	The Sir Henry Segrave	Not Visited	no_visit.png	24,24	0,0
+53.435863	-2.972670	The Thomas Frost	Not Visited	no_visit.png	24,24	0,0
+53.429627	-2.802256	The Watch Maker	Not Visited	no_visit.png	24,24	0,0
+53.405776	-2.985820	The Welkin	Not Visited	no_visit.png	24,24	0,0
+53.452867	-2.990955	The Wild Rose	Not Visited	no_visit.png	24,24	0,0
+53.649100	-3.004511	The Willow Grove	Not Visited	no_visit.png	24,24	0,0
+51.471301	-0.487826	The Crown Rivers	Not Visited	no_visit.png	24,24	0,0
+51.4689223	-0.4513389	The Flying Chariot	Not Visited	no_visit.png	24,24	0,0
+51.658782	-0.087759	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+51.471301	-0.487826	Wetherspoon Express	Not Visited	no_visit.png	24,24	0,0
+52.755780	0.3936920	Globe Hotel	Not Visited	no_visit.png	24,24	0,0
+52.627349	1.2954770	The Bell Hotel	Not Visited	no_visit.png	24,24	0,0
+52.632297	1.2978220	The Glass House	Not Visited	no_visit.png	24,24	0,0
+52.828667	0.8485250	The Limes	Not Visited	no_visit.png	24,24	0,0
+52.625048	1.3036050	The Queen of Iceni	Not Visited	no_visit.png	24,24	0,0
+52.413429	0.7504890	The Red Lion	Not Visited	no_visit.png	24,24	0,0
+52.680983	0.9393540	The Romany Rye	Not Visited	no_visit.png	24,24	0,0
+52.607216	1.7294460	The Troll Cart	Not Visited	no_visit.png	24,24	0,0
+52.6028694	0.3760511	The Whalebone	Not Visited	no_visit.png	24,24	0,0
+52.654318	1.2685630	The Whiffler	Not Visited	no_visit.png	24,24	0,0
+52.5803956	1.7283005	The William Adams	Not Visited	no_visit.png	24,24	0,0
+53.590434	-0.654238	The Blue Bell Inn	Not Visited	no_visit.png	24,24	0,0
+53.552400	-0.488763	The White Horse	Not Visited	no_visit.png	24,24	0,0
+54.486015	-0.613778	The Angel Hotel	Not Visited	no_visit.png	24,24	0,0
+54.009126	-1.468513	The Crown Inn	Not Visited	no_visit.png	24,24	0,0
+53.960359	-2.015596	The Devonshire	Not Visited	no_visit.png	24,24	0,0
+53.783565	-1.072167	The Giant Bellflower	Not Visited	no_visit.png	24,24	0,0
+54.5344678	-1.0565422	The Ironstone Miner	Not Visited	no_visit.png	24,24	0,0
+54.280924	-0.404235	The Lord Rosebery	Not Visited	no_visit.png	24,24	0,0
+54.617258	-1.060479	The Plimsoll Line	Not Visited	no_visit.png	24,24	0,0
+53.954488	-1.077186	The Postern Gate	Not Visited	no_visit.png	24,24	0,0
+53.955620	-1.091004	The Punch Bowl	Not Visited	no_visit.png	24,24	0,0
+54.404675	-1.736716	The Ralph Fitz Randal	Not Visited	no_visit.png	24,24	0,0
+54.575963	-1.238042	The Resolution	Not Visited	no_visit.png	24,24	0,0
+54.569864	-1.238653	The Swatters Carr	Not Visited	no_visit.png	24,24	0,0
+54.232583	-1.341393	The Three Tuns	Not Visited	no_visit.png	24,24	0,0
+54.136018	-1.523206	The Unicorn Hotel	Not Visited	no_visit.png	24,24	0,0
+53.994265	-1.543775	The Winter Gardens	Not Visited	no_visit.png	24,24	0,0
+52.237947	-0.892703	The Cordwainer	Not Visited	no_visit.png	24,24	0,0
+52.399386	-0.725818	The Earl of Dalkeith	Not Visited	no_visit.png	24,24	0,0
+52.293072	-0.599042	The Railway Inn	Not Visited	no_visit.png	24,24	0,0
+52.301673	-0.695287	The Red Well	Not Visited	no_visit.png	24,24	0,0
+52.507544	-0.706020	The Samuel Lloyd	Not Visited	no_visit.png	24,24	0,0
+52.257668	-1.164515	The Saracens Head Inn	Not Visited	no_visit.png	24,24	0,0
+52.487058	-0.699317	The Saxon Crown	Not Visited	no_visit.png	24,24	0,0
+55.0865379	-1.5852313	John The Clerk of Cramlington	Not Visited	no_visit.png	24,24	0,0
+55.166767	-1.690830	The Electrical Wizard	Not Visited	no_visit.png	24,24	0,0
+54.971866	-2.101042	The Forum	Not Visited	no_visit.png	24,24	0,0
+55.131345	-1.600477	The Red Lion	Not Visited	no_visit.png	24,24	0,0
+55.183414	-1.567594	The Rohan Kanhai	Not Visited	no_visit.png	24,24	0,0
+55.126572	-1.508041	The Wallaw	Not Visited	no_visit.png	24,24	0,0
+52.953599	-1.145190	Lloyds No.1 Bar	Not Visited	no_visit.png	24,24	0,0
+52.927625	-1.278252	The Admiral Sir John Borlase Warren	Not Visited	no_visit.png	24,24	0,0
+52.948061	-1.150575	The Company Inn	Not Visited	no_visit.png	24,24	0,0
+52.966067	-1.109232	The Free Man	Not Visited	no_visit.png	24,24	0,0
+52.959685	-1.155780	The Gooseberry Bush	Not Visited	no_visit.png	24,24	0,0
+52.953040	-1.149721	The Joseph Else	Not Visited	no_visit.png	24,24	0,0
+53.017956	-1.304965	The Lady Chatterley	Not Visited	no_visit.png	24,24	0,0
+52.953001	-1.152287	The Roebuck Inn	Not Visited	no_visit.png	24,24	0,0
+52.981368	-1.146399	The Samuel Hall	Not Visited	no_visit.png	24,24	0,0
+52.937184	-1.134167	The Trent Bridge Inn	Not Visited	no_visit.png	24,24	0,0
+53.002567	-1.196372	The William Peverel	Not Visited	no_visit.png	24,24	0,0
+52.983651	-1.123279	The Woodthorpe Top	Not Visited	no_visit.png	24,24	0,0
+52.952653	-0.951655	The Butter Cross	Not Visited	no_visit.png	24,24	0,0
+53.322392	-0.939932	The Dominie Cross	Not Visited	no_visit.png	24,24	0,0
+53.001748	-1.130417	The Ernehale	Not Visited	no_visit.png	24,24	0,0
+52.926352	-1.216820	The Last Post	Not Visited	no_visit.png	24,24	0,0
+53.304274	-1.123609	The Liquorice Gardens	Not Visited	no_visit.png	24,24	0,0
+53.126174	-1.261325	The Picture House	Not Visited	no_visit.png	24,24	0,0
+53.038053	-1.202491	The Pilgrim Oak	Not Visited	no_visit.png	24,24	0,0
+53.099422	-1.243889	The Regent	Not Visited	no_visit.png	24,24	0,0
+53.076629	-0.809152	The Sir John Arderne	Not Visited	no_visit.png	24,24	0,0
+53.145772	-1.195501	The Stag & Pheasant	Not Visited	no_visit.png	24,24	0,0
+53.145842	-1.194904	The Widow Frost	Not Visited	no_visit.png	24,24	0,0
+51.537712	-0.904076	The Catherine Wheel	Not Visited	no_visit.png	24,24	0,0
+51.783603	-1.484908	The Company of Weavers	Not Visited	no_visit.png	24,24	0,0
+52.060556	-1.338770	The Exchange	Not Visited	no_visit.png	24,24	0,0
+51.753444	-1.262114	The Four Candles	Not Visited	no_visit.png	24,24	0,0
+51.670176	-1.283443	The Narrows	Not Visited	no_visit.png	24,24	0,0
+51.898817	-1.151713	The Penny Black	Not Visited	no_visit.png	24,24	0,0
+51.751100	-1.261570	The Swan & Castle	Not Visited	no_visit.png	24,24	0,0
+51.732347	-1.217602	The William Morris	Not Visited	no_visit.png	24,24	0,0
+52.670094	-0.731175	The Captain Noel Newton	Not Visited	no_visit.png	24,24	0,0
+52.536721	-2.420223	Jewel of the Severn	Not Visited	no_visit.png	24,24	0,0
+52.709256	-2.758646	Montgomery’s Tower	Not Visited	no_visit.png	24,24	0,0
+52.906125	-2.485833	The Hippodrome	Not Visited	no_visit.png	24,24	0,0
+52.709482	-2.757119	The Shrewsbury Hotel	Not Visited	no_visit.png	24,24	0,0
+52.859546	-3.056445	The Wilfred Owen	Not Visited	no_visit.png	24,24	0,0
+52.700595	-2.517038	The William Withering	Not Visited	no_visit.png	24,24	0,0
+51.350518	-2.982553	Cabot Court Hotel	Not Visited	no_visit.png	24,24	0,0
+50.978756	-3.227553	The Iron Duke	Not Visited	no_visit.png	24,24	0,0
+51.127462	-3.004078	The Carnival Inn	Not Visited	no_visit.png	24,24	0,0
+50.873112	-2.962610	The Cerdic	Not Visited	no_visit.png	24,24	0,0
+51.018339	-3.104680	The Coal Orchard	Not Visited	no_visit.png	24,24	0,0
+51.347909	-2.977903	The Dragon Inn	Not Visited	no_visit.png	24,24	0,0
+51.205300	-3.479339	The Duke of Wellington	Not Visited	no_visit.png	24,24	0,0
+51.432151	-2.758405	The Glassmaker	Not Visited	no_visit.png	24,24	0,0
+51.380979	-2.364582	The King of Wessex	Not Visited	no_visit.png	24,24	0,0
+51.125835	-2.741460	The Lantokay	Not Visited	no_visit.png	24,24	0,0
+51.2860806	-2.4815218	The Palladium Electric	Not Visited	no_visit.png	24,24	0,0
+51.014715	-3.099492	The Perkin Warbeck	Not Visited	no_visit.png	24,24	0,0
+51.485909	-2.765912	The Posset Cup	Not Visited	no_visit.png	24,24	0,0
+51.207049	-2.649105	The Quarter Jack	Not Visited	no_visit.png	24,24	0,0
+51.234290	-2.998761	The Reeds Arms	Not Visited	no_visit.png	24,24	0,0
+50.941616	-2.626269	The William Dampier	Not Visited	no_visit.png	24,24	0,0
+51.539258	-2.413260	Thorn’s Farm	Not Visited	no_visit.png	24,24	0,0
+53.380267	-1.472973	Sheffield Water Works Company	Not Visited	no_visit.png	24,24	0,0
+53.383182	-1.466473	The Bankers Draft	Not Visited	no_visit.png	24,24	0,0
+53.379970	-1.472380	The Benjamin Huntsman	Not Visited	no_visit.png	24,24	0,0
+53.428856	-1.354911	The Bluecoat	Not Visited	no_visit.png	24,24	0,0
+53.502186	-1.345412	The Church House	Not Visited	no_visit.png	24,24	0,0
+53.376826	-1.492159	The Francis Newton	Not Visited	no_visit.png	24,24	0,0
+53.522466	-1.134002	The Gate House	Not Visited	no_visit.png	24,24	0,0
+53.522573	-1.398634	The Horseshoe	Not Visited	no_visit.png	24,24	0,0
+53.552901	-1.481735	The Joseph Bramah	Not Visited	no_visit.png	24,24	0,0
+53.492769	-1.287533	The Old Market Hall	Not Visited	no_visit.png	24,24	0,0
+53.423301	-1.196687	The Queens Hotel	Not Visited	no_visit.png	24,24	0,0
+53.402014	-1.500166	The Rawson Spring	Not Visited	no_visit.png	24,24	0,0
+53.523957	-1.132554	The Red Lion	Not Visited	no_visit.png	24,24	0,0
+53.431900	-1.356828	The Rhinoceros	Not Visited	no_visit.png	24,24	0,0
+53.480428	-1.010799	The Running Horse	Not Visited	no_visit.png	24,24	0,0
+53.372833	-1.481984	The Sheaf Island	Not Visited	no_visit.png	24,24	0,0
+53.551168	-1.480524	The Silkstone Inn	Not Visited	no_visit.png	24,24	0,0
+53.413040	-1.412461	The Steel Foundry	Not Visited	no_visit.png	24,24	0,0
+53.461684	-1.465563	The Wagon & Horses	Not Visited	no_visit.png	24,24	0,0
+53.344149	-1.478358	The Woodseats Palace	Not Visited	no_visit.png	24,24	0,0
+51.540773	0.7823130	Parsons’ Barn	Not Visited	no_visit.png	24,24	0,0
+51.536483	0.7130050	The Last Post	Not Visited	no_visit.png	24,24	0,0
+52.709197	-2.000375	The Hedgeford Lodge	Not Visited	no_visit.png	24,24	0,0
+52.683733	-1.825945	The Acorn Inn	Not Visited	no_visit.png	24,24	0,0
+53.012193	-2.225344	The Arnold Machin	Not Visited	no_visit.png	24,24	0,0
+52.633140	-1.691544	The Bole Bridge	Not Visited	no_visit.png	24,24	0,0
+53.115715	-2.176331	The Bradley Green	Not Visited	no_visit.png	24,24	0,0
+52.808706	-2.118298	The Butler’s Bell	Not Visited	no_visit.png	24,24	0,0
+53.106534	-2.026960	The Green Dragon	Not Visited	no_visit.png	24,24	0,0
+52.689474	-2.032219	The Linford Arms	Not Visited	no_visit.png	24,24	0,0
+52.802992	-1.629501	The Lord Burton	Not Visited	no_visit.png	24,24	0,0
+52.897960	-1.863266	The Old Swan	Not Visited	no_visit.png	24,24	0,0
+52.804441	-2.115915	The Picture House	Not Visited	no_visit.png	24,24	0,0
+52.757438	-1.934890	The Plaza	Not Visited	no_visit.png	24,24	0,0
+52.903487	-2.148554	The Poste of Stone	Not Visited	no_visit.png	24,24	0,0
+53.025320	-2.174163	The Reginald Mitchell	Not Visited	no_visit.png	24,24	0,0
+52.986782	-1.989753	The Wheatsheaf	Not Visited	no_visit.png	24,24	0,0
+53.004065	-2.185283	The Wheatsheaf	Not Visited	no_visit.png	24,24	0,0
+54.607379	-1.294102	The Half Moon Inn	Not Visited	no_visit.png	24,24	0,0
+54.587781	-1.310721	The Highland Laddie	Not Visited	no_visit.png	24,24	0,0
+52.040777	0.7301540	Grover & Allen	Not Visited	no_visit.png	24,24	0,0
+52.244723	0.7122760	The Corn Exchange	Not Visited	no_visit.png	24,24	0,0
+52.059520	1.1546410	The Cricketers	Not Visited	no_visit.png	24,24	0,0
+52.082715	0.4375270	The Drabbet Smock	Not Visited	no_visit.png	24,24	0,0
+52.244779	0.4073900	The Golden Lion	Not Visited	no_visit.png	24,24	0,0
+52.474293	1.7509850	The Joseph Conrad	Not Visited	no_visit.png	24,24	0,0
+52.457558	1.5631520	The Kings Head Hotel	Not Visited	no_visit.png	24,24	0,0
+52.185492	0.9990270	The Willow Tree	Not Visited	no_visit.png	24,24	0,0
+51.332762	-0.270009	The Assembly Rooms	Not Visited	no_visit.png	24,24	0,0
+51.337192	-0.743687	The Claude du Vall	Not Visited	no_visit.png	24,24	0,0
+51.295354	-0.327456	The Edmund Tylney	Not Visited	no_visit.png	24,24	0,0
+51.433656	-0.513366	The George	Not Visited	no_visit.png	24,24	0,0
+51.320567	-0.555470	The Herbert Wells	Not Visited	no_visit.png	24,24	0,0
+51.170349	-0.161764	The Jack Fairman	Not Visited	no_visit.png	24,24	0,0
+51.185709	-0.612217	The Jack Phillips	Not Visited	no_visit.png	24,24	0,0
+51.257473	-0.004753	The Oxted Inn	Not Visited	no_visit.png	24,24	0,0
+51.236732	-0.577610	The Rodboro Buildings	Not Visited	no_visit.png	24,24	0,0
+51.241219	-0.167925	The Sun	Not Visited	no_visit.png	24,24	0,0
+52.675617	-2.445659	The Thomas Botfield	Not Visited	no_visit.png	24,24	0,0
+54.903408	-1.387901	The Cooper Rose	Not Visited	no_visit.png	24,24	0,0
+55.042515	-1.445076	The Fire Station	Not Visited	no_visit.png	24,24	0,0
+54.977800	-1.611770	The Five Swans	Not Visited	no_visit.png	24,24	0,0
+54.945865	-1.673357	The Harry Clasper	Not Visited	no_visit.png	24,24	0,0
+54.976740	-1.584256	The High Main	Not Visited	no_visit.png	24,24	0,0
+55.004768	-1.619370	The Job Bulman	Not Visited	no_visit.png	24,24	0,0
+54.972519	-1.617607	The Keel Row	Not Visited	no_visit.png	24,24	0,0
+54.970068	-1.616518	The Mile Castle	Not Visited	no_visit.png	24,24	0,0
+54.967660	-1.610529	The Quayside	Not Visited	no_visit.png	24,24	0,0
+54.990500	-1.536996	The Ritz	Not Visited	no_visit.png	24,24	0,0
+54.912658	-1.522992	The Sir William de Wessyngton	Not Visited	no_visit.png	24,24	0,0
+54.961737	-1.602189	The Tilley Stone	Not Visited	no_visit.png	24,24	0,0
+54.843412	-1.469199	The Wild Boar	Not Visited	no_visit.png	24,24	0,0
+54.904626	-1.381052	The William Jameson	Not Visited	no_visit.png	24,24	0,0
+54.999935	-1.433382	The Wouldhave	Not Visited	no_visit.png	24,24	0,0
+54.957641	-1.668555	Wetherspoons	Not Visited	no_visit.png	24,24	0,0
+52.373030	-1.259349	Rupert Brooke	Not Visited	no_visit.png	24,24	0,0
+52.479607	-1.471069	The Bear and Ragged Staff	Not Visited	no_visit.png	24,24	0,0
+52.289716	-1.535581	The Benjamin Satchwell	Not Visited	no_visit.png	24,24	0,0
+52.523007	-1.469525	The Felix Holt	Not Visited	no_visit.png	24,24	0,0
+52.191596	-1.705680	The Golden Bee	Not Visited	no_visit.png	24,24	0,0
+52.282280	-1.590252	The Thomas Lloyd	Not Visited	no_visit.png	24,24	0,0
+52.479426	-2.111407	Abraham Darby	Not Visited	no_visit.png	24,24	0,0
+52.585188	-1.979812	St. Matthew’s Hall	Not Visited	no_visit.png	24,24	0,0
+52.516921	-1.902602	The Arthur Robertson	Not Visited	no_visit.png	24,24	0,0
+52.454597	-1.717906	The Atrium	Not Visited	no_visit.png	24,24	0,0
+52.603429	-1.919698	The Avion	Not Visited	no_visit.png	24,24	0,0
+52.553248	-2.018997	The Bellwether	Not Visited	no_visit.png	24,24	0,0
+52.518473	-1.995236	The Billiard Hall	Not Visited	no_visit.png	24,24	0,0
+52.548528	-1.841088	The Bishop Vesey	Not Visited	no_visit.png	24,24	0,0
+52.411922	-1.973423	The Black Horse	Not Visited	no_visit.png	24,24	0,0
+52.614780	-2.004171	The Bloxwich Showman	Not Visited	no_visit.png	24,24	0,0
+52.560252	-1.825511	The Bottle of Sack	Not Visited	no_visit.png	24,24	0,0
+52.479918	-1.900193	The Briar Rose	Not Visited	no_visit.png	24,24	0,0
+52.473732	-2.041796	The Britannia	Not Visited	no_visit.png	24,24	0,0
+52.524249	-1.839970	The Charlie Hall	Not Visited	no_visit.png	24,24	0,0
+52.454977	-2.143758	The Chequers Inn	Not Visited	no_visit.png	24,24	0,0
+52.399650	-1.530717	The City Arms	Not Visited	no_visit.png	24,24	0,0
+52.541402	-2.122461	The Clifton	Not Visited	no_visit.png	24,24	0,0
+52.504695	-2.015851	The Court of Requests	Not Visited	no_visit.png	24,24	0,0
+52.474271	-1.896646	The Dragon Inn	Not Visited	no_visit.png	24,24	0,0
+52.407130	-1.508567	The Earl of Mercia	Not Visited	no_visit.png	24,24	0,0
+52.446314	-1.887532	The Elizabeth of York	Not Visited	no_visit.png	24,24	0,0
+52.476565	-1.912312	The Figure of Eight	Not Visited	no_visit.png	24,24	0,0
+52.409068	-1.509486	The Flying Standard	Not Visited	no_visit.png	24,24	0,0
+52.509425	-2.084455	The Full Moon	Not Visited	no_visit.png	24,24	0,0
+52.492716	-1.819487	The Hornet	Not Visited	no_visit.png	24,24	0,0
+52.582960	-2.055027	The Malthouse	Not Visited	no_visit.png	24,24	0,0
+52.586540	-1.828419	The Mare Pool	Not Visited	no_visit.png	24,24	0,0
+52.472103	-2.082466	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+52.586747	-2.124171	The Moon Under Water	Not Visited	no_visit.png	24,24	0,0
+52.431936	-1.892767	The Pear Tree	Not Visited	no_visit.png	24,24	0,0
+52.412863	-1.827759	The Pump House	Not Visited	no_visit.png	24,24	0,0
+52.600292	-2.081891	The Royal Tiger	Not Visited	no_visit.png	24,24	0,0
+52.564048	-2.080305	The Sir Henry Newbolt	Not Visited	no_visit.png	24,24	0,0
+52.478124	-1.910082	The Soloman Cutler	Not Visited	no_visit.png	24,24	0,0
+52.407202	-1.517802	The Spon Gate	Not Visited	no_visit.png	24,24	0,0
+52.446730	-1.819665	The Spread Eagle	Not Visited	no_visit.png	24,24	0,0
+52.481874	-1.894953	The Square Peg	Not Visited	no_visit.png	24,24	0,0
+52.485688	-2.114407	The Waterfront Inn	Not Visited	no_visit.png	24,24	0,0
+52.414457	-1.781063	The White Swan	Not Visited	no_visit.png	24,24	0,0
+52.449699	-2.050818	The William Shenstone	Not Visited	no_visit.png	24,24	0,0
+52.467438	-1.808551	The William Tyler	Not Visited	no_visit.png	24,24	0,0
+52.453344	-1.732618	Wetherspoon	Not Visited	no_visit.png	24,24	0,0
+52.453891	-1.717070	Wetherspoons	Not Visited	no_visit.png	24,24	0,0
+51.155990	-0.163049	The Beehive	Not Visited	no_visit.png	24,24	0,0
+50.836676	-0.779968	The Dolphin & Anchor	Not Visited	no_visit.png	24,24	0,0
+51.155990	-0.163049	The Flying Horse	Not Visited	no_visit.png	24,24	0,0
+50.809132	-0.543730	The George Inn	Not Visited	no_visit.png	24,24	0,0
+50.783175	-0.675540	The Hatter’s Inn	Not Visited	no_visit.png	24,24	0,0
+51.115383	-0.190369	The Jubilee Oak	Not Visited	no_visit.png	24,24	0,0
+51.063625	-0.332293	The Lynd Cross	Not Visited	no_visit.png	24,24	0,0
+51.126476	-0.008773	The Ounce & Ivy Bush	Not Visited	no_visit.png	24,24	0,0
+51.161299	-0.179121	The Red Lion	Not Visited	no_visit.png	24,24	0,0
+50.956203	-0.131755	The Six Gold Martlets	Not Visited	no_visit.png	24,24	0,0
+50.813290	-0.370706	The Three Fishes	Not Visited	no_visit.png	24,24	0,0
+53.798580	-1.547285	Becketts Bank	Not Visited	no_visit.png	24,24	0,0
+53.721678	-1.862741	The Barum Top Inn	Not Visited	no_visit.png	24,24	0,0
+53.613552	-1.354261	The Blue Bell	Not Visited	no_visit.png	24,24	0,0
+53.904207	-1.692899	The Bowling Green	Not Visited	no_visit.png	24,24	0,0
+53.7935237	-1.3883341	The Briggate	Not Visited	no_visit.png	24,24	0,0
+53.692556	-1.309399	The Broken Bridge	Not Visited	no_visit.png	24,24	0,0
+53.647402	-1.782398	The Cherry Tree	Not Visited	no_visit.png	24,24	0,0
+53.866113	-1.681586	The Clothier’s Arms	Not Visited	no_visit.png	24,24	0,0
+53.709538	-1.907801	The Commercial Inn	Not Visited	no_visit.png	24,24	0,0
+53.796504	-1.661856	The Crossed Shuttle	Not Visited	no_visit.png	24,24	0,0
+53.801747	-1.547888	The Cuthbert Brodrick	Not Visited	no_visit.png	24,24	0,0
+53.726941	-1.353853	The Glass Blower	Not Visited	no_visit.png	24,24	0,0
+53.802007	-1.545685	The Hedley Verity	Not Visited	no_visit.png	24,24	0,0
+53.925738	-1.825689	The Lister Arms	Not Visited	no_visit.png	24,24	0,0
+53.868726	-1.909999	The Livery Rooms	Not Visited	no_visit.png	24,24	0,0
+53.645647	-1.779138	The Lord Wilson	Not Visited	no_visit.png	24,24	0,0
+53.847262	-1.837362	The Myrtle Grove	Not Visited	no_visit.png	24,24	0,0
+53.724622	-1.712401	The Obediah Brooke	Not Visited	no_visit.png	24,24	0,0
+53.810925	-1.627304	The Old Unicorn	Not Visited	no_visit.png	24,24	0,0
+53.725100	-1.859882	The Percy Shaw	Not Visited	no_visit.png	24,24	0,0
+53.744171	-1.600059	The Picture House	Not Visited	no_visit.png	24,24	0,0
+53.701401	-1.779926	The Richard Oastler	Not Visited	no_visit.png	24,24	0,0
+53.833938	-1.776932	The Sir Norman Rae	Not Visited	no_visit.png	24,24	0,0
+53.682919	-1.494346	The Six Chimneys	Not Visited	no_visit.png	24,24	0,0
+53.826077	-1.535324	The Three Hulats	Not Visited	no_visit.png	24,24	0,0
+53.692606	-1.629560	The Time Piece	Not Visited	no_visit.png	24,24	0,0
+53.793032	-1.754838	The Turls Green	Not Visited	no_visit.png	24,24	0,0
+53.712637	-1.628588	The Union Rooms	Not Visited	no_visit.png	24,24	0,0
+53.714243	-2.098004	The White Hart	Not Visited	no_visit.png	24,24	0,0
+53.710173	-1.341896	The Winter Seam	Not Visited	no_visit.png	24,24	0,0
+53.794167	-1.547586	Wetherspoons	Not Visited	no_visit.png	24,24	0,0
+51.320004	-2.206405	The Albany Palace	Not Visited	no_visit.png	24,24	0,0
+51.204758	-2.180071	The Bath Arms	Not Visited	no_visit.png	24,24	0,0
+51.374932	-2.138620	The Bear	Not Visited	no_visit.png	24,24	0,0
+51.172115	-1.780965	The Bell	Not Visited	no_visit.png	24,24	0,0
+51.458390	-2.117888	The Bridge House	Not Visited	no_visit.png	24,24	0,0
+51.574860	-1.754279	The Dockle Farmhouse	Not Visited	no_visit.png	24,24	0,0
+51.068624	-1.798179	The King’s Head Inn	Not Visited	no_visit.png	24,24	0,0
+51.560010	-1.782671	The Savoy	Not Visited	no_visit.png	24,24	0,0
+51.351756	-1.995355	The Silk Mercer	Not Visited	no_visit.png	24,24	0,0
+51.562324	-1.787637	The Sir Daniel Arms	Not Visited	no_visit.png	24,24	0,0
+52.375770	-2.315428	George Hotel	Not Visited	no_visit.png	24,24	0,0
+52.333918	-2.061787	Golden Cross Hotel	Not Visited	no_visit.png	24,24	0,0
+52.192865	-2.222120	The Crown	Not Visited	no_visit.png	24,24	0,0
+52.112482	-2.330037	The Foley Arms Hotel	Not Visited	no_visit.png	24,24	0,0
+52.094272	-1.946456	The Old Swanne Inne	Not Visited	no_visit.png	24,24	0,0
+52.388342	-2.249141	The Penny Black	Not Visited	no_visit.png	24,24	0,0
+52.195499	-2.221875	The Postal Order	Not Visited	no_visit.png	24,24	0,0
+52.305898	-1.938611	The Rising Sun	Not Visited	no_visit.png	24,24	0,0
+52.307042	-1.943181	The Royal Enfield	Not Visited	no_visit.png	24,24	0,0
+54.593013	-5.931808	The Bridge House	Not Visited	no_visit.png	24,24	0,0
+54.714593	-5.806399	The Central Bar	Not Visited	no_visit.png	24,24	0,0
+54.510224	-6.046636	The Tuesday Bell	Not Visited	no_visit.png	24,24	0,0
+54.594336	-5.701269	The Spirit Merchant	Not Visited	no_visit.png	24,24	0,0
+51.899285	-8.474509	The Linen Weaver	Not Visited	no_visit.png	24,24	0,0
+53.294142	-6.133645	The Forty Foot	Not Visited	no_visit.png	24,24	0,0
+53.389167	-6.388942	The Great Wood	Not Visited	no_visit.png	24,24	0,0
+53.456392	-6.222072	The Old Borough	Not Visited	no_visit.png	24,24	0,0
+53.300811	-6.177065	The Three Tun Tavern	Not Visited	no_visit.png	24,24	0,0
+57.505782	-1.779061	Cross Keys	Not Visited	no_visit.png	24,24	0,0
+57.148118	-2.093642	The Archibald Simpson	Not Visited	no_visit.png	24,24	0,0
+57.284820	-2.379670	The Gordon Highlander	Not Visited	no_visit.png	24,24	0,0
+57.143368	-2.109670	The Justice Mill	Not Visited	no_visit.png	24,24	0,0
+57.693860	-2.005463	The Saltoun Inn	Not Visited	no_visit.png	24,24	0,0
+56.558840	-2.582331	The Corn Exchange	Not Visited	no_visit.png	24,24	0,0
+56.412796	-5.474628	The Corryvreckan	Not Visited	no_visit.png	24,24	0,0
+56.004058	-4.737553	The Henry Bell	Not Visited	no_visit.png	24,24	0,0
+56.115870	-3.791251	The Bobbing John	Not Visited	no_visit.png	24,24	0,0
+55.070304	-3.613408	The Robert the Bruce	Not Visited	no_visit.png	24,24	0,0
+56.466195	-2.873623	Jolly’s Hotel	Not Visited	no_visit.png	24,24	0,0
+56.462066	-2.971839	The Counting House	Not Visited	no_visit.png	24,24	0,0
+55.611143	-4.497014	The Wheatsheaf Inn	Not Visited	no_visit.png	24,24	0,0
+55.943611	-3.057992	The David Macbeth Moir	Not Visited	no_visit.png	24,24	0,0
+55.951915	-3.190502	The Booking Office	Not Visited	no_visit.png	24,24	0,0
+55.951995	-3.205333	The Alexander Graham Bell	Not Visited	no_visit.png	24,24	0,0
+55.9482351	-3.2062561	The Caley Picture House	Not Visited	no_visit.png	24,24	0,0
+55.970788	-3.171012	The Foot of the Walk	Not Visited	no_visit.png	24,24	0,0
+55.956463	-3.185870	The Playfair	Not Visited	no_visit.png	24,24	0,0
+55.948862	-3.362945	The Sir Walter Scott	Not Visited	no_visit.png	24,24	0,0
+55.952978	-3.199702	The Standing Order	Not Visited	no_visit.png	24,24	0,0
+55.948862	-3.362945	The Turnhouse	Not Visited	no_visit.png	24,24	0,0
+55.942903	-3.282521	The White Lady	Not Visited	no_visit.png	24,24	0,0
+56.195863	-3.167625	The Golden Acorn	Not Visited	no_visit.png	24,24	0,0
+56.071339	-3.461366	The Guildhall & Linen Exchange	Not Visited	no_visit.png	24,24	0,0
+56.111982	-3.158047	The Robert Nairn	Not Visited	no_visit.png	24,24	0,0
+55.827699	-4.284509	Sir John Stirling Maxwell	Not Visited	no_visit.png	24,24	0,0
+55.861023	-4.251800	The Counting House	Not Visited	no_visit.png	24,24	0,0
+55.857518	-4.257313	The Crystal Palace	Not Visited	no_visit.png	24,24	0,0
+55.888472	-4.321724	The Esquire House	Not Visited	no_visit.png	24,24	0,0
+55.865690	-4.266700	The Hengler’s Circus	Not Visited	no_visit.png	24,24	0,0
+55.938177	-4.154589	The Kirky Puffer	Not Visited	no_visit.png	24,24	0,0
+55.875941	-4.364801	The Lord of the Isles	Not Visited	no_visit.png	24,24	0,0
+55.858751	-4.259879	The Sir John Moore	Not Visited	no_visit.png	24,24	0,0
+55.862294	-4.257089	The Society Room	Not Visited	no_visit.png	24,24	0,0
+58.442343	-3.090616	The Alexander Bain	Not Visited	no_visit.png	24,24	0,0
+56.816444	-5.113810	The Great Glen	Not Visited	no_visit.png	24,24	0,0
+57.479581	-4.227476	The King’s Highway	Not Visited	no_visit.png	24,24	0,0
+55.946808	-4.753627	The James Watt	Not Visited	no_visit.png	24,24	0,0
+55.893080	-3.068934	The Blacksmith’s Forge	Not Visited	no_visit.png	24,24	0,0
+57.648905	-3.312467	The Muckle Cross	Not Visited	no_visit.png	24,24	0,0
+55.612441	-4.672991	The Auld Brig	Not Visited	no_visit.png	24,24	0,0
+55.795095	-4.869604	The Paddle Steamer	Not Visited	no_visit.png	24,24	0,0
+55.633765	-4.789511	The Salt Cot	Not Visited	no_visit.png	24,24	0,0
+55.791623	-3.990256	The Brandon Works	Not Visited	no_visit.png	24,24	0,0
+55.948697	-3.987541	The Carrick Stone	Not Visited	no_visit.png	24,24	0,0
+55.861571	-4.022426	The Vulcan	Not Visited	no_visit.png	24,24	0,0
+55.774170	-3.918060	The Wishaw Malt	Not Visited	no_visit.png	24,24	0,0
+56.396318	-3.425895	The Capital Asset	Not Visited	no_visit.png	24,24	0,0
+56.592614	-3.338402	The Fair O’Blair	Not Visited	no_visit.png	24,24	0,0
+55.846603	-4.424535	The Last Post	Not Visited	no_visit.png	24,24	0,0
+55.864281	-4.4331799	The Sanderling	Not Visited	no_visit.png	24,24	0,0
+55.864653	-4.432090	The Sandpiper	Not Visited	no_visit.png	24,24	0,0
+55.617890	-2.811066	Hunters Hall	Not Visited	no_visit.png	24,24	0,0
+55.425266	-2.783623	The Bourtree	Not Visited	no_visit.png	24,24	0,0
+55.652703	-3.188605	The Cross Keys	Not Visited	no_visit.png	24,24	0,0
+55.499539	-4.610786	The Prestwick Pioneer	Not Visited	no_visit.png	24,24	0,0
+55.462916	-4.633937	The West Kirk	Not Visited	no_visit.png	24,24	0,0
+55.828222	-4.217484	An Ruadh-Ghleann	Not Visited	no_visit.png	24,24	0,0
+55.760817	-4.177595	The Hay Stook	Not Visited	no_visit.png	24,24	0,0
+55.818727	-4.165774	The John Fairweather	Not Visited	no_visit.png	24,24	0,0
+56.000127	-3.783067	The Carron Works	Not Visited	no_visit.png	24,24	0,0
+56.118532	-3.939151	The Crossed Peels	Not Visited	no_visit.png	24,24	0,0
+55.943228	-4.571429	The Captain James Lang	Not Visited	no_visit.png	24,24	0,0
+55.882537	-3.517758	The Newyearfield	Not Visited	no_visit.png	24,24	0,0
+51.771165	-3.245151	The Olympia	Not Visited	no_visit.png	24,24	0,0
+51.779650	-3.207618	The Picture House	Not Visited	no_visit.png	24,24	0,0
+51.729839	-3.134537	The Pontlottyn	Not Visited	no_visit.png	24,24	0,0
+51.608429	-3.659949	The Sawyer’s Arms	Not Visited	no_visit.png	24,24	0,0
+51.506639	-3.579270	The Wyndham Arms	Not Visited	no_visit.png	24,24	0,0
+51.572210	-3.219794	The Malcolm Uphill	Not Visited	no_visit.png	24,24	0,0
+51.669323	-3.195527	The Sirhowy	Not Visited	no_visit.png	24,24	0,0
+51.507614	-3.199854	The Aneurin Bevan	Not Visited	no_visit.png	24,24	0,0
+51.483341	-3.172948	The Central Bar	Not Visited	no_visit.png	24,24	0,0
+51.485684	-3.165617	The Ernest Willows	Not Visited	no_visit.png	24,24	0,0
+51.480148	-3.181925	The Gatekeeper	Not Visited	no_visit.png	24,24	0,0
+51.476596	-3.176890	The Great Western	Not Visited	no_visit.png	24,24	0,0
+51.481330	-3.200316	The Ivor Davies	Not Visited	no_visit.png	24,24	0,0
+51.462724	-3.166651	The Mount Stuart	Not Visited	no_visit.png	24,24	0,0
+51.477658	-3.177898	The Prince of Wales	Not Visited	no_visit.png	24,24	0,0
+51.680907	-4.163244	The York Palace	Not Visited	no_visit.png	24,24	0,0
+51.857052	-4.304996	Yr Hen Dderwen	Not Visited	no_visit.png	24,24	0,0
+52.414089	-4.081825	Yr Hen Orsaf	Not Visited	no_visit.png	24,24	0,0
+53.325173	-3.832359	The Palladium	Not Visited	no_visit.png	24,24	0,0
+53.296712	-3.727801	The Picture House	Not Visited	no_visit.png	24,24	0,0
+53.114594	-3.310398	The Castle Hotel	Not Visited	no_visit.png	24,24	0,0
+53.321051	-3.491623	The Sussex	Not Visited	no_visit.png	24,24	0,0
+53.212225	-3.039094	The Central Hotel	Not Visited	no_visit.png	24,24	0,0
+53.166431	-3.141215	The Gold Cape	Not Visited	no_visit.png	24,24	0,0
+53.274202	-3.222796	The Market Cross	Not Visited	no_visit.png	24,24	0,0
+52.887857	-4.417534	Pen Cob	Not Visited	no_visit.png	24,24	0,0
+53.140706	-4.274801	Tafarn Y Porth	Not Visited	no_visit.png	24,24	0,0
+53.224370	-4.129060	The Black Bull Inn	Not Visited	no_visit.png	24,24	0,0
+51.747381	-3.378139	Y Dic Penderyn	Not Visited	no_visit.png	24,24	0,0
+51.642586	-2.673660	The Bell Hanger	Not Visited	no_visit.png	24,24	0,0
+51.823226	-3.019214	The Coliseum	Not Visited	no_visit.png	24,24	0,0
+51.811804	-2.715684	The King’s Head	Not Visited	no_visit.png	24,24	0,0
+51.661907	-3.806338	The David Protheroe	Not Visited	no_visit.png	24,24	0,0
+51.594380	-3.782071	The Lord Caradoc	Not Visited	no_visit.png	24,24	0,0
+51.589783	-2.978427	The Godfrey Morgan	Not Visited	no_visit.png	24,24	0,0
+51.588957	-2.998056	The John Wallace Linton	Not Visited	no_visit.png	24,24	0,0
+51.587676	-2.998456	The Queen’s Hotel	Not Visited	no_visit.png	24,24	0,0
+51.801554	-4.968229	The William Owen	Not Visited	no_visit.png	24,24	0,0
+52.516404	-3.316007	The Black Boy	Not Visited	no_visit.png	24,24	0,0
+51.948723	-3.3911728	The George Hotel	Not Visited	no_visit.png	24,24	0,0
+51.599484	-3.340818	The Tumble Inn	Not Visited	no_visit.png	24,24	0,0
+51.712742	-3.446322	Yr Ieuan Ap Iago	Not Visited	no_visit.png	24,24	0,0
+51.619375	-3.940487	The Bank Statement	Not Visited	no_visit.png	24,24	0,0
+51.669000	-4.037645	The Mardy Inn	Not Visited	no_visit.png	24,24	0,0
+51.619245	-3.949492	The Potters Wheel	Not Visited	no_visit.png	24,24	0,0
+51.668635	-3.922654	The Red Lion Inn	Not Visited	no_visit.png	24,24	0,0
+51.655404	-3.020568	The John Fielding	Not Visited	no_visit.png	24,24	0,0
+51.439440	-3.175713	The Bears Head	Not Visited	no_visit.png	24,24	0,0
+51.398496	-3.284393	The Sir Samuel Romilly	Not Visited	no_visit.png	24,24	0,0
+53.047074	-2.997051	The Elihu Yale	Not Visited	no_visit.png	24,24	0,0
+53.045207	-2.991848	The North and South Wales Bank	Not Visited	no_visit.png	24,24	0,0

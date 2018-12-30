@@ -1,0 +1,28 @@
+<html>
+<head><title>OpenLayers JD Wetherspoon free houses Example</title></head>
+<body>
+  <div id="mapdiv"></div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/2.11/lib/OpenLayers.js"></script>           
+  <script>
+    map = new OpenLayers.Map("mapdiv");
+    map.addLayer(new OpenLayers.Layer.OSM());
+       
+    var pois = new OpenLayers.Layer.Text( "Spoons",
+                    { location:"./latest_list.txt",
+                      projection: map.displayProjection
+                    });
+    map.addLayer(pois);
+    
+    //Set start centrepoint and zoom
+    //TODO: Is it possible to just zoom to extents of defined markers instead?
+    
+    var lonLat = new OpenLayers.LonLat(-1.8227, 53.6458)
+          .transform(
+            new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+            map.getProjectionObject() // to Spherical Mercator Projection
+          );
+    var zoom=7;
+    map.setCenter (lonLat, zoom);  
+  </script>
+  
+</body></html>

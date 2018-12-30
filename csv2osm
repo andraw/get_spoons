@@ -1,0 +1,36 @@
+#!/usr/bin/env perl 
+#
+# csv2osm - Takes the CSV file and produces a txt file suitable for Open Street Map.
+#
+# Version 1.0 (C) 2018 Andrew Rawlins (awr-getspoons@fermit.org.uk)
+#
+# v1.0 - Initial Release.  
+#
+# Usage: csv2spoons list_of_spoons.csv > list_of_spoons.txt
+
+use Text::CSV;
+use open ':std', ':encoding(UTF-8)';
+
+my ($csvfile) = @ARGV;
+
+if (not defined $csvfile) {
+    die "Need a CSV filename ... \n";
+}
+
+print "lat\tlon\ttitle\tdescription\ticon\ticonsize\ticonoffset\n";
+
+my ($pubn, $lat, $lon, $street, $locality, $region, $postcode, $tel) = "";
+
+my @rows;
+my $csv = Text::CSV->new ( { binary => 1 } ) or die "Cannot use CSV: ".Text::CSV->error_diag ();
+
+open my $fh, "<:encoding(utf8)", $csvfile or die $csvfile . ": $!";
+while (my $row = $csv->getline ($fh)) {
+
+    ($pubn, $lat, $lon, $street, $locality, $region, $postcode, $tel) = @$row;
+    print $lat . "\t" . $lon . "\t" . $pubn . "\t" . "Not Visited" . "\t" . "no_visit.png" . "\t" . "24,24" . "\t" . "0,0" . "\n";
+
+}
+$csv->eof or $csv->error_diag();
+
+close $fh;
