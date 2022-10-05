@@ -97,7 +97,7 @@ for (sort keys %seen) {
        print "\"" . $pub_url . "\"\n";
 
        # Introduce a random pause so we don't hammer JDW
-       my $pause = rand(10)*1000000;
+       my $pause = rand(1)*10000000;
        usleep ($pause);
 
     }
